@@ -27,9 +27,9 @@ Tools • Dart 2.15.1
 3. In your IDE add the flutter & dart extensions,
 
 - for vscode add the Flutter extension from the extension marketplace. This should also add the peer Dart extension.
-  ![Open Simulator Menu](/images/flutter-ext.png?raw=true)
+  ![Open Simulator Menu](/assets/flutter-ext.png?raw=true)
 - Confirm that the Dart extension is also added and add it if not present
-  ![Open Simulator Menu](/images/dart-ext.png?raw=true)
+  ![Open Simulator Menu](/assets/dart-ext.png?raw=true)
 
 ## Running the app
 
@@ -46,7 +46,7 @@ open -a Simulator
 ```
 
 From this menu you can spin up a simulator. I will be using an iPhone 12 simulator.
-![Open Simulator Menu](/images/simulator-select.png?raw=true)
+![Open Simulator Menu](/assets/simulator-select.png?raw=true)
 
 3. To start up the app use
 
@@ -55,4 +55,4 @@ flutter run
 ```
 
 OR if using vscode you should run the app by doing the following, this will ensure that you get the full suite of functionality enabled by the Flutter/Dart extensions:
-![Open Simulator Menu](/images/run-app.png?raw=true)
+![Open Simulator Menu](/assets/run-app.png?raw=true)
