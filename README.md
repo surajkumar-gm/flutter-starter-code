@@ -48,11 +48,10 @@ open -a Simulator
 From this menu you can spin up a simulator. I will be using an iPhone 12 simulator.
 ![Open Simulator Menu](/assets/simulator-select.png?raw=true)
 
-3. To start up the app use
+3. To start up the app, if you are on vs code use the toolbar to go to run > start without debugging
+![Open Simulator Menu](/assets/run-app.png?raw=true)
 
+otherwise you can run the app by running
 ```bash
 flutter run
 ```
-
-OR if using vscode you should run the app by doing the following, this will ensure that you get the full suite of functionality enabled by the Flutter/Dart extensions:
-![Open Simulator Menu](/assets/run-app.png?raw=true)
