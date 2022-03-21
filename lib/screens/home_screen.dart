@@ -17,7 +17,6 @@ class HomeScreen extends StatelessWidget {
               children: const [
                 Header(),
                 DateSection(),
-                ListSections()
               ],
             )),
       ),
